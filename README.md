@@ -1,3 +1,3 @@
 # learning-repo
-learning Github
-description
+learning Github /n
+description :
