@@ -1,3 +1,2 @@
 # learning-repo
-learning Github /n
-description :
+description: learning Github 
